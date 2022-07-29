@@ -1,11 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T18:48:11.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="ayW_iD1IRwlPWo2ih_dx" version="20.2.2" type="github">
-  <diagram id="2KM7qzQD1ydCJYT5edbY" name="Page-1">
-    <mxGraphModel dx="1038" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-07-29T19:00:38.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="fR_NcJw5mnJ02kcRxttI" version="20.2.2" type="github">
+  <diagram id="2KM7qzQD1ydCJYT5edbY" name="Proceso 79">
+    <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OJexPiwuxhIHTzdGtKDM-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="OJexPiwuxhIHTzdGtKDM-1" value="Firmar Condiciones Particulares" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJexPiwuxhIHTzdGtKDM-2" value="Rellenar formulario:&lt;br style=&quot;font-size: 12px;&quot;&gt;-Selects&lt;br style=&quot;font-size: 12px;&quot;&gt;-Types&lt;br style=&quot;font-size: 12px;&quot;&gt;-adjuntar fichero pdf (vía examinar)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="540" y="137.5" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="OJexPiwuxhIHTzdGtKDM-3" value="Asignar Matrícula" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJexPiwuxhIHTzdGtKDM-4" value="Navegar hasta XXX:&lt;br&gt;-&lt;br&gt;-&lt;br&gt;Buscar la matrícula&lt;br&gt;-&lt;br&gt;-&lt;br&gt;Clics" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="267.5" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OJexPiwuxhIHTzdGtKDM-5" value="Uncheck cliente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="407.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJexPiwuxhIHTzdGtKDM-6" value="Actualizar datos de entrega" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJexPiwuxhIHTzdGtKDM-7" value="Navegacion:&lt;br&gt;-Clics&lt;br&gt;-Selects" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="405" width="80" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="OJexPiwuxhIHTzdGtKDM-9" value="Rellenar formulario:&lt;br&gt;-Selects&lt;br&gt;-Types&lt;br&gt;-Clics" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="523.75" width="120" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OJexPiwuxhIHTzdGtKDM-10" value="Mandato al Proveedor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="665" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJexPiwuxhIHTzdGtKDM-11" value="Navegacion:&lt;br&gt;-Clics&lt;br&gt;-Selects" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="665" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJexPiwuxhIHTzdGtKDM-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=12;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="510" y="137.5" width="20" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="OJexPiwuxhIHTzdGtKDM-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=12;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="510" y="267.5" width="20" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="OJexPiwuxhIHTzdGtKDM-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=12;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="510" y="400" width="20" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="OJexPiwuxhIHTzdGtKDM-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=12;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="510" y="522.5" width="20" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="OJexPiwuxhIHTzdGtKDM-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=12;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="510" y="657.5" width="20" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="OJexPiwuxhIHTzdGtKDM-17" value="Buscar Condiciones Particulares" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJexPiwuxhIHTzdGtKDM-18" value="Navegacion:&lt;br&gt;-Type&lt;br&gt;-Clic" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="27.5" width="80" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="OJexPiwuxhIHTzdGtKDM-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=12;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="510" y="22.5" width="20" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
