@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T20:16:32.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="LpbTnRn3YFARY3e70qns" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-29T20:30:57.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="W16ePYt8bMv46qptr8ya" version="20.2.2" type="github">
   <diagram id="2KM7qzQD1ydCJYT5edbY" name="Proceso 79">
     <mxGraphModel dx="1384" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -200,7 +200,7 @@
         <mxCell id="OJexPiwuxhIHTzdGtKDM-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="OJexPiwuxhIHTzdGtKDM-64" target="OJexPiwuxhIHTzdGtKDM-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OJexPiwuxhIHTzdGtKDM-64" value="Generate Report" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="OJexPiwuxhIHTzdGtKDM-64" value="Generate Report &amp;amp; Send Email" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="746" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OJexPiwuxhIHTzdGtKDM-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="OJexPiwuxhIHTzdGtKDM-65" target="OJexPiwuxhIHTzdGtKDM-53">
